@@ -4,7 +4,7 @@
 }
 
 .contact h2 {
-  color: #38bdf8;
+  color: #e5f838;
   font-size: 2.5rem;
   margin-bottom: 30px;
 }
@@ -22,6 +22,6 @@
 }
 
 .icons a:hover {
-  color: #38bdf8;
+  color: #e5f838;
   transform: scale(1.2);
 }

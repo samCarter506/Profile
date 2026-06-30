@@ -6,7 +6,7 @@
 .skills h2 {
   text-align: center;
   font-size: 2.5rem;
-  color: #38bdf8;
+  color: #e5f838;
   margin-bottom: 50px;
 }
 
@@ -31,7 +31,7 @@
 
 .skill-card:hover {
   transform: translateY(-5px);
-  border-color: #38bdf8;
+  border-color: #e5f838;
   box-shadow: 0 10px 20px rgba(56, 189, 248, 0.2);
 }
 

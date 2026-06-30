@@ -4,7 +4,7 @@
 
 .projects h2 {
   font-size: 2.5rem;
-  color: #38bdf8;
+  color: #e5f838;
   margin-bottom: 40px;
 }
 
@@ -58,16 +58,16 @@
 .github-btn {
   background: #1e293b;
   color: white;
-  border: 1px solid #38bdf8;
+  border: 1px solid #e5f838;
 }
 
 .github-btn:hover {
-  background: #38bdf8;
+  background: #e5f838;
   color: #0f172a;
 }
 
 .demo-btn {
-  background: #38bdf8;
+  background: #e5f838;
   color: white;
 }
 
