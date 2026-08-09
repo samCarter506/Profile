@@ -34,7 +34,11 @@ export const portfolioData = {
       ],
       github: "https://github.com/samCarter506/Loanshark-",
       API:"https://github.com/samCarter506/LoansharkApi",
-      demo: "https://loansharkportal.onrender.com"
+      demo: "https://loansharkportal.onrender.com",
+       Credentials:[
+        "UserId => admin@loan.co.za",
+        "Password => Admin@123456"
+      ]
     },
     {
       title: "ScanStock Inventory Management ",
@@ -50,7 +54,11 @@ export const portfolioData = {
       ],
       github: "https://github.com/samCarter506/ScanStock-portal",
       API:"https://github.com/samCarter506/ScanStock",
-      demo: "https://scanstock-portal.onrender.com/"
+      demo: "https://scanstock-portal.onrender.com/",
+      Credentials:[
+        "UserId => samuelt",
+        "Password => Admin@123456"
+      ]
     },
      {
       title: "Upcoming and Enhancements",
